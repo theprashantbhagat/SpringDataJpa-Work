@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="jakarta.persistence.Table"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.GeneratedValue"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.GenerationType"/>
+    <fullyQualifiedTypeName name="org.springframework.data.repository.CrudRepository"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="com.BikkadIT.CrudRepositoryMethod.Repository.UserRepository"/>
+    <fullyQualifiedTypeName name="com.BikkadIT.CrudRepositoryMethod.service.UserService"/>
+    <fullyQualifiedTypeName name="com.BikkadIT.CrudRepositoryMethod.service.UserServiceI"/>
+    <fullyQualifiedTypeName name="com.BikkadIT.CrudRepositoryMethod.controller.UserController"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
+    <fullyQualifiedTypeName name="org.springframework.ui.Model"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PostMapping"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="org.springframework.data.domain.Page"/>
+    <fullyQualifiedTypeName name="org.springframework.data.domain.PageRequest"/>
+    <fullyQualifiedTypeName name="org.springframework.data.domain.Sort"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Column"/>
+    <fullyQualifiedTypeName name="org.springframework.data.jpa.repository.Query"/>
+    <fullyQualifiedTypeName name="java.io.Serializable"/>
+    <fullyQualifiedTypeName name="com.BikkadIT.CompositePrimaryKey.repository.EmployeeRepository"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.IdClass"/>
+    <fullyQualifiedTypeName name="com.BikkadIT.CompositePrimaryKey.model.EmployeePKid"/>
+    <fullyQualifiedTypeName name="com.BikkadIT.CompositePrimaryKey.Service.ServiceI"/>
+    <fullyQualifiedTypeName name="com.BikkadIT.CompositePrimaryKey.model.Employee"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Entity"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Id"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Repository"/>
+    <fullyQualifiedTypeName name="org.springframework.data.jpa.repository.JpaRepository"/>
+    <fullyQualifiedTypeName name="com.BikkadIT.RollBackTransaction.Repository.AddressRepository"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
+    <fullyQualifiedTypeName name="com.BikkadIT.RollBackTransaction.Repository.EmployeeRepository"/>
+    <fullyQualifiedTypeName name="com.BikkadIT.RollBackTransaction.model.Address"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RestController"/>
+    <fullyQualifiedTypeName name="com.BikkadIT.RollBackTransaction.model.Employee"/>
+    <fullyQualifiedTypeName name="com.BikkadIT.RollBackTransaction.service.ServiceI"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="jakarta.transaction.Transactional"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="com.BikkadIT.CrudRepositoryMethod.model.User"/>
+</qualifiedTypeNameHistroy>

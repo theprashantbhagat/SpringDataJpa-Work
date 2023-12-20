@@ -1,0 +1,13 @@
+package com.BikkadIT.RollBackTransaction;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class RollBackTransactionApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(RollBackTransactionApplication.class, args);
+	}
+
+}

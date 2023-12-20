@@ -1,0 +1,6 @@
+package com.BikkadIT.CompositePrimaryKey.Service;
+
+public interface ServiceI {
+
+	
+}

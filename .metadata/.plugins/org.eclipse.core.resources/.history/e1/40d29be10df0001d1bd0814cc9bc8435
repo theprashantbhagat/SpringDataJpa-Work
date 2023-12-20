@@ -1,0 +1,16 @@
+package com.BikkadIT.RollBackTransaction.service;
+
+import org.springframework.stereotype.Service;
+
+import com.BikkadIT.RollBackTransaction.Repository.AddressRepository;
+import com.BikkadIT.RollBackTransaction.Repository.EmployeeRepository;
+
+@Service
+public class ServiceImpl implements ServiceI {
+
+	private AddressRepository addressRepository;
+	
+	private EmployeeRepository employeeRepository;
+	
+	
+}

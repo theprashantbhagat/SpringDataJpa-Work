@@ -1,0 +1,38 @@
+package com.BikkadIT.RollBackTransaction.service;
+
+import org.springframework.stereotype.Service;
+
+import com.BikkadIT.RollBackTransaction.Repository.AddressRepository;
+import com.BikkadIT.RollBackTransaction.Repository.EmployeeRepository;
+import com.BikkadIT.RollBackTransaction.model.Address;
+import com.BikkadIT.RollBackTransaction.model.Employee;
+
+@Service
+public class ServiceImpl implements ServiceI {
+
+	private AddressRepository addressRepository;
+	
+	private EmployeeRepository employeeRepository;
+
+	@Override
+	public void save() {
+		// TODO Auto-generated method stub
+		
+		Employee emp=new Employee();
+		emp.setEmpId(111);
+		emp.setEmpName("PRASHANT");
+		emp.setEmpAddress("chandrapur");
+		emp.setEmpSalary(80000.00);
+		
+		
+		Address ad=new Address();
+		ad.setPincode(442505);
+		ad.setArea("Dhanora");
+		ad.setState("Maharashtra");
+		
+		employeeRepository.save(emp);
+		addressRepository.save(ad);
+	}
+	
+	
+}

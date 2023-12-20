@@ -1,0 +1,9 @@
+package com.BikkadIT.RollBackTransaction.model;
+
+public class Employee {
+
+	private int empId;
+	private String empName;
+	private String empAddress;
+	private Double empSalary;
+}

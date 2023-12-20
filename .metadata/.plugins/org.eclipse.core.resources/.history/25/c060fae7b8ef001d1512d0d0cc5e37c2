@@ -1,0 +1,5 @@
+package com.BikkadIT.CompositePrimaryKey.model;
+
+public class EmployeePKid {
+
+}
